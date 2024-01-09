@@ -1,1 +1,1 @@
-# My simple-shell repo
+# My simple-shell repo project
